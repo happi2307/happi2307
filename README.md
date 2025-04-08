@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Akshat aka Happi 💫</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7A500&center=true&vCenter=true&width=435&lines=Flutter+Dev+%F0%9F%93%B1+%7C+AI+Explorer+%F0%9F%A7%AB;Cooking+%F0%9F%8D%B3+%7C+Cycling+%F0%9F%9A%B4+%7C+CS%3AGO+Grinder+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7A500&center=true&vCenter=true&width=435&lines=Flutter+Dev+%F0%9F%93%B1+%7C+AI+Explorer+%F0%9F%A7%AB;Music+%F0%9F%8D%B3+%7C+Cycling+%F0%9F%9A%B4" alt="Typing SVG" />
 </p>
 
 ---
