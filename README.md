@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **Android apps with Flutter**
+- 🔭 Currently building **Android apps with Flutter** and have worked on full stack web applications! 
 - 🤖 Exploring the world of **AI and Machine Learning**
 - 🌱 Focused on growing as an **App Developer**
 - 🎮 Logged over **1800+ hours in CS:GO** — I know what grinding feels like!
